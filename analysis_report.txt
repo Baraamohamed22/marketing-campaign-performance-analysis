@@ -1,0 +1,71 @@
+
+================================================================================
+REAL-WORLD DATA ANALYSIS REPORT
+Marketing Campaign Dataset - Sales Performance Analysis
+================================================================================
+
+PROJECT OVERVIEW
+--------------------------------------------------------------------------------
+This report presents a comprehensive analysis of the Marketing Campaign dataset,
+adapted to meet real-world sales analysis requirements. The analysis covers data
+cleaning, exploratory data analysis, statistical analysis, visualizations, and
+actionable business insights.
+
+DATASET SUMMARY
+--------------------------------------------------------------------------------
+• Total Records: 2,240
+• Total Columns: 43
+• Data Cleaning Status: Complete
+• Missing Values Handled: Yes
+• Duplicates Removed: Yes
+
+KEY METRICS
+--------------------------------------------------------------------------------
+• Total Revenue: $1,356,988.00
+• Average Revenue per Customer: $605.80
+• Median Revenue per Customer: $396.00
+• Total Customers: 2,240
+• Top Revenue Region: High Income
+• Top Revenue Product: Wines
+
+KEY INSIGHTS
+--------------------------------------------------------------------------------
+
+The region 'High Income' is the top performer with:
+  • Total Revenue: $760,039.00
+  • Average Spending per Customer: $1,357.21
+  • Number of Customers: 560
+
+
+
+'Wines' is the best-performing product category:
+  • Total Revenue: $680,816.00
+  • Market Share: 50.2% of total revenue
+
+
+
+Correlation Coefficient: 0.665
+Average Spending (High Income): $1,357.21
+Average Spending (Low Income): $81.93
+
+
+CONCLUSIONS
+--------------------------------------------------------------------------------
+This comprehensive analysis reveals:
+
+1. Clear regional variations in customer spending patterns.
+2. Strong product category preferences, particularly in Wines.
+3. Significant income-spending correlation for market segmentation.
+4. Opportunities for targeted marketing in high-value segments.
+
+RECOMMENDATIONS
+--------------------------------------------------------------------------------
+1. Allocate more marketing resources to High Income.
+2. Develop premium offerings for high-income segments.
+3. Expand Wines category with new variants.
+4. Implement personalized multi-channel marketing campaigns.
+
+================================================================================
+Report Generated: 2026-04-26 21:22:21
+
+================================================================================
