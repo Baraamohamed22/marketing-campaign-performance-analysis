@@ -1,8 +1,8 @@
-# Marketing Campaign Performance Dashboard
+# Marketing Campaign Performance analysis
 
 ## Project Overview
 
-This project analyzes a real-world marketing campaign dataset to understand customer behavior, revenue performance, campaign response, and product category performance. The goal is to transform raw marketing data into clear business insights and present them through an interactive performance marketing dashboard.
+This project analyzes a real-world marketing campaign dataset to understand customer behavior, revenue performance, campaign response, and product category performance. The goal is to transform raw marketing data into clear business insights and present them through an interactive performance marketing analysis-dashboard.
 
 The dashboard helps answer key business questions such as:
 
@@ -89,14 +89,5 @@ The dashboard includes:
 
 ## How to View the Dashboard
 
-Open the dashboard file in a browser:
+(https://baraamohamed22.github.io/marketing-campaign-performance-analysis/)
 
-```text
-index.html
-```
-
-If publishing with GitHub Pages, enable GitHub Pages from the repository settings and use the generated live link.
-
-## Project Summary for CV
-
-Built an interactive marketing performance dashboard using Python, Pandas, HTML, CSS, and JavaScript. The project analyzes customer revenue, product performance, campaign response, and income-based segmentation to generate actionable marketing recommendations.
